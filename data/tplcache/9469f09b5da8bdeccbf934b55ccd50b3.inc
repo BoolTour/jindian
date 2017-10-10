@@ -1,0 +1,13 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}金殿环球交易所在各股指交易结束前15分钟的强平，系统是如何执行的？
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}金殿环球{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>金殿环球交易所在各股指交易结束前15分钟的强平规则是以风险率为准，（风险率=当前权益/持仓保证金）无关锁仓等操作，例如：<br />
+某客户当前权益是25000港币，持有2手中华-IF（每手保证金5000港币），方向分别是：卖出-开仓 与 买入-开仓，系统在强平时候是这样计算的：<br />
+风险率=当前权益/持仓总保证金*100%=（25000/2*5000）*100%=250%；（如持1手IF的话，风险率则等于（25000/5000）*100%=500%）；<br />
+这时系统便会检测到该交易账户风险率只有250%，达不到持仓过夜的要求（需要600%），所以系统便会随机选择一单进行强平，强平之后系统会按照风险率的计算方法再次检测，如果这时客户的风险满足600%的过夜风险率，系统便不会在继续执行强平，进而检测下个账户，反之则继续执行强平。<br />
+特别声明：系统在对持有多单的交易账户执行强平的时候是先随机选择一单（无关单子买卖方向，盈亏状况，委托手数等）进行强平，直到风险率满足过夜要求为止。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}{/dede:field}

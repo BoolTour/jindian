@@ -1,0 +1,261 @@
+/* dede58.com 做最好的织梦模板 */
+.container {
+	width: 1440px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 0px;
+	overflow:hidden;
+	border-top:4px solid #d0d0d0;
+	border-bottom:4px solid #d0d0d0;
+}
+.img {
+	width: 1440px;
+	height: 300px;
+	overflow: hidden;
+	position: relative;
+	overflow:hidden;
+}
+.bg {
+	width: auto;
+	height: 20px;
+	z-index: 99;
+	position: absolute;
+	left: 555px;
+	bottom: 15px;
+}
+.bg_in {
+	width: 200px;
+	height: 20px;
+	position: relative;
+}
+.bg_in li {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	border-radius: 20px;
+	background: #ffffff;
+	opacity: 0.5;
+	text-align: center;
+	color: #333333;
+	float: left;
+	margin-right: 10px;
+	position: relative;
+	z-index: 999;
+}
+.bg_in #lp {
+	position: absolute;
+	left: 0px;
+	top: 0;
+	background: #ff3c00;
+	opacity: 1;
+	z-index: 998;
+	animation: myfirstArr 22.5s infinite;
+	-webkit-animation: myfirstArr 22.5s infinite;
+	-moz-animation: myfirstArr 22.5s infinite;
+	-o-animation: myfirstArr 22.5s infinite;
+}
+.nav {
+	width: 4320px;
+	overflow:hidden;
+	height: 300px;
+	position: absolute;
+	left: 0px;
+	top: 0;
+	z-index: 9;
+	animation: myfirst 22.5s infinite;
+	-webkit-animation: myfirst 22.5s infinite;
+-0-animation: myfirst 22.5s infinite;
+	-moz-animation: myfirst 22.5s infinite;
+}
+.nav li {
+	float: right;
+}
+.nav li img {
+	width: 1440px;
+	height: 300px;
+	overflow:hidden;
+}
+@keyframes myfirst {
+0% {
+left: 0px;
+}
+18% {
+left: 0px;
+}
+20% {
+left: -1440px;
+}
+38% {
+left: -1440px;
+}
+40% {
+left: -2880px;
+}
+58% {
+left: -2880px;
+}
+ 100% {
+left: -0px;
+}
+}
+ @-o-keyframes myfirst {
+0% {
+left: 0px;
+}
+18% {
+left: 0px;
+}
+20% {
+left: -1440px;
+}
+38% {
+left: -1440px;
+}
+40% {
+left: -2880px;
+}
+58% {
+left: -2880px;
+}
+ 100% {
+left: -0px;
+}
+}
+ @-moz-keyframes myfirst {
+0% {
+left: 0px;
+}
+18% {
+left: 0px;
+}
+20% {
+left: -1440px;
+}
+38% {
+left: -1440px;
+}
+40% {
+left: -2880px;
+}
+58% {
+left: -2880px;
+}
+ 100% {
+left: -0px;
+}
+}
+ @-webkit-keyframes myfirst {
+0% {
+left: 0px;
+}
+18% {
+left: 0px;
+}
+20% {
+left: -1440px;
+}
+38% {
+left: -1440px;
+}
+40% {
+left: -2880px;
+}
+58% {
+left: -2880px;
+}
+ 100% {
+left: -0px;
+}
+}
+ @keyframes myfirstArr {
+0% {
+left: 0px;
+}
+ 19% {
+left: 0px;
+}
+20% {
+left: 30px;
+}
+ 39% {
+left: 30px;
+}
+40% {
+left: 60px;
+}
+59% {
+left: 60px;
+}
+ 100% {
+left: 0px;
+}
+}
+ @-webkit-keyframes myfirstArr {
+0% {
+left: 0px;
+}
+ 19% {
+left: 0px;
+}
+20% {
+left: 30px;
+}
+ 39% {
+left: 30px;
+}
+40% {
+left: 60px;
+}
+59% {
+left: 60px;
+}
+ 100% {
+left: 0px;
+}
+}
+ @-moz-keyframes myfirstArr {
+0% {
+left: 0px;
+}
+ 19% {
+left: 0px;
+}
+20% {
+left: 30px;
+}
+ 39% {
+left: 30px;
+}
+40% {
+left: 60px;
+}
+59% {
+left: 60px;
+}
+ 100% {
+left: 0px;
+}
+}
+ @-o-keyframes myfirstArr {
+0% {
+left: 0px;
+}
+ 19% {
+left: 0px;
+}
+20% {
+left: 30px;
+}
+ 39% {
+left: 30px;
+}
+40% {
+left: 60px;
+}
+59% {
+left: 60px;
+}
+100% {
+left: 0px;
+}
+}

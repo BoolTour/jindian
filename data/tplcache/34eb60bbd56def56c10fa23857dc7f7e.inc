@@ -1,0 +1,25 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}期指十月“开门红” 三主力涨幅均超1%
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}金殿环球{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>国庆节后首个交易日（10月10日）<a href="http://qizhi.hexun.com/" target="_blank">期指</a>主力高开高走，集体上行。IF1610、IH1610、IC1610涨幅均超1%。分析称，长假期间外围股市走好、楼市调控资金转战等利好刺激了今天的行情。</p>
+
+<p>　　截止中午收盘，<a href="http://qizhi.hexun.com/quanzhonggu-2012/" target="_blank">沪深300</a>指数报3291.49点，涨幅为1.17%，IF1610报3294.6点，涨幅为1.45%；上证50指数报2202.34点，涨幅为1.15%，IH1610报2205.4点，涨幅为1.41%；<a href="http://jingzhi.funds.hexun.com/512500.shtml" target="_blank">中证500</a>指数报6427.2点，涨幅为1.57%，IC1610报6429点，涨幅为1.8%。</p>
+
+<p>　　期指成交持仓方面，IF1610成交7243手，持仓27820手，日增仓-1021手；IH1610成交2813手，持仓13901手，日增仓-123手；IC1610成交6783手，持仓18352手，日增仓-894手。</p>
+
+<p>　　期指升贴水方面，IF1610升水3.11点，IH1610升水3.06点，IC1610升水1.8点。</p>
+
+<p>　　外盘方面，A50E10报9777.5点，涨幅为0.9%；成交77652手，持仓62.572万手。</p>
+
+<p>　　<a href="http://xianhuo.hexun.com/" target="_blank">现货</a>方面，节后A股开门红，沪指早盘探底回升，半日大涨逾1%。截止午间收盘，上证指数报3042.18点，涨幅1.25%；深证成指报10723.66点，涨幅1.48%；<a href="http://jingzhi.funds.hexun.com/159915.shtml" target="_blank">创业板</a>指报2204.89点，大涨2.56%。</p>
+
+<p>　　国庆期间发生的事情较多，国内方面，PMI制造业数据50.4，与前次持平，显示经济进一步企稳；国内多内发布楼市限购，炒房热情将受到影响，同时货币政策预计会趋紧；<a href="http://news.hexun.com/usa/index.html" target="_blank">美国</a>就业数据不及预期，美元指数回落；外围主要股市小幅反弹。经济数据企稳有望带动企业盈利趋稳，外围股市小幅反弹对国内的情绪也会有一定的影响，今日预计股市会有所反弹。目前货币政策趋紧和人民币贬值压力是盘面的风险因素之一，但是当前一些股票的股息率与国债相比已经有一定的优势，此外，炒房热情冷却也会导致资金向股市分流，因此我们认为股市&ldquo;深蹲&rdquo;的可能性较小，操作上，建议逢低做多。</p>
+
+<p>&nbsp;</p>
+
+<p>来源：和讯网</p>{/dede:field}
+{dede:field name='pubdate'}1476076719{/dede:field}
+{dede:field name='litpic'}{/dede:field}

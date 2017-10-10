@@ -1,0 +1,5 @@
+<?php
+$z[0]=Array("channelartlist","\r\n        <li class=\"sepeator\"></li>\r\n        <li><a href=\"{dede:field name='typeurl'/}\" onmouseover=\"ypSlideOutMenu.showMenu('menu{dede:global name=itemindex runphp='yes'}@me=@me+1;{/dede:global}');\" onmouseout=\"ypSlideOutMenu.hideMenu('menu2')\">{dede:field name='typename'/}</a>\r\n          <div  class='subNav'>\r\n            <div id='menu{dede:global name=itemindex runphp='yes'}@me=@me+1;{/dede:global}Container'>\r\n              <div id='menu{dede:global name=itemindex runphp='yes'}@me=@me+1;{/dede:global}Content' class='menu'>\r\n                <ul>\r\n                  {dede:channel type='son' noself='yes'}\r\n                  <li><a href=\"[field:typelink/]\">[field:typename/]</a></li>\r\n                  {/dede:channel}\r\n                </ul>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </li>\r\n        ",419,1308);
+$z[0][4]['typeid']="top";
+
+?>

@@ -1,0 +1,5 @@
+INSERT INTO `dede_co_mediaurls` VALUES('1','20ebd5cb0b9cd8e1d25446efcb9881d7','/uploads/allimg/c141122/141A923544AP-12024.jpg');
+INSERT INTO `dede_co_mediaurls` VALUES('1','eb4c9bbe0b014d16805a18aa77c4fe44','/uploads/allimg/c141122/141A923640J10-1YC.jpg');
+INSERT INTO `dede_co_mediaurls` VALUES('1','470de39a913e2c92464623b18675f8b9','/uploads/allimg/c141122/141A923645K10-2O46.jpg');
+INSERT INTO `dede_co_mediaurls` VALUES('1','38dcc2e9177b3ea7689d3accd30b0aac','/uploads/allimg/c141122/141A92364O110-354J.jpg');
+INSERT INTO `dede_co_mediaurls` VALUES('1','c6ddbedf93ac79ac26f9c9fb43aa4259','/uploads/allimg/c141122/141A92364c610-4S61.gif');

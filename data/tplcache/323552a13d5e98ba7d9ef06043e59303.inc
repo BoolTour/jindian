@@ -1,0 +1,31 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}美联储官员加息言论再起 金价五日来首跌
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>因美联储(FED)官员重申年内加息的预期，周五(8月19日)亚市盘中金价走软，为五个交易日来首次。</p>
+
+<p>现货黄金盘中下跌0.3%至1348.26美元/盎司。美国期金下挫0.3%至1353.50美元/盎司。</p>
+
+<p>旧金山联储主席威廉姆斯(John Williams)周四和多数官员保持一致，暗示赞成下个月加息，并表示加息等待太久可能给经济带来沉重代价。</p>
+
+<p>纽约联储主席杜德利(William Dudley)周四也表示，近期美国就业强劲增加、中等薪资岗位增长开始回升，这意味着就业市场持续收紧、美国经济处在扩张轨道上。此番言论巩固他认为美联储可能加息的观点。</p>
+
+<p>数据显示，上周美国初请失业金人数降幅超过预期，美国8月大西洋沿岸中部地区制造业温和增长。</p>
+
+<p>ICE美元指数盘中上涨0.2%至94.296。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/150425954600310-1c58.jpg" /></p>
+
+<p>（来源：FX168财经网）</p>
+
+<p>据周四公布的欧洲央行(ECB)7月货币政策会议纪要显示，尽管英国公投后下行风险加大，但欧洲央行利率设定者赞成保持现有的货币政策不变，对市场希望出台更多刺激措施这一观点保持谨慎态度。</p>
+
+<p>路透调查显示，日本8月制造业信心恶化并触及2013年以来最低水平，日本央行正考虑出台更有力的货币宽松政策，这反映了日元升值带来的痛苦，并凸显出政策制定者所面对的艰巨任务&mdash;&mdash;促进经济增长。</p>
+
+<p>中国7月数据显示，7月份大城市房价涨幅呈现放缓迹象，房产作为中国经济增长的重要推动力，这可能会加剧人们对经济增长的担忧，但另一方面，却让担心出现房产泡沫的政策制定者长舒一口气。</p>
+
+<p>截止周四，全球最大的黄金上市交易基金(ETF)-SPDR Gold Trust黄金持仓量下降0.19%至955.99吨。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c170901/150425954600310-1c58_lit.jpg{/dede:field}

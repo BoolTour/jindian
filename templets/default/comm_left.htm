@@ -1,0 +1,20 @@
+<div class="lefttop">
+  <div class="ltype"> <span class="about">{dede:field name='typename'/}</span> </div>
+  <ul class="leftul">
+    <br />
+    <br />
+    {dede:channel type='son' currentstyle="
+    <li><a href='~typelink~' class='left1'>~typename~</a></li>
+    "}
+    <li><a href="[field:typeurl/]" class="left">[field:typename/]</a></li>
+    {/dede:channel}
+  </ul>
+  <div class="leftaddress"> <b>{dede:global.cfg_webname/}</b><br/>
+    地址:{dede:global.address/}<br/>
+    电话:{dede:global.telyi/}<br/>
+    {dede:global.teler/}<br/>
+    传真：{dede:global.fax/}<br/>
+    {dede:global.cfg_basehost/}<br/>
+    <img src="/static/images/left3.jpg" style="margin-left:-10px;" /> </div>
+  <br />
+</div>

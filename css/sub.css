@@ -1,0 +1,320 @@
+﻿		#table,.add-table {
+			width: 100%;
+			margin-bottom: 30px;
+		}
+		.add-table-title{
+			text-indent: 32px;
+		}
+		.add-table tr:nth-of-type(odd){
+			background: rgb(250,192,144);
+		}
+		#table>tbody>tr,.add-table>tbody>tr {
+			text-align: center;
+		}
+		
+		#table>tbody>tr>td,.add-table>tbody>tr>td {
+			line-height: 36px;
+			color: #000000;
+		}
+		#table>tbody>tr>th,.add-table>tbody>tr>th{
+			line-height: 36px;
+			font-weight: 100;
+			color: #fff;
+			font-size: 16px;
+			text-align: center;
+			background: url(../images/titlebg_forextrading.jpg) repeat-x;
+		}
+		#table>tbody>tr>td,
+		#table>tbody>tr>th{
+			border: 1px solid rgb(198, 198, 198);
+		}
+		.add-table>tbody>tr>td,
+		.add-table>tbody>tr>th{
+			border: 1px solid #736868;
+		}
+		.add-table-newstyle tr:nth-of-type(odd){
+			background: none;
+		}
+		.add-table-quarter{
+			background-color: rgb(146,208,80);
+		}
+		.add-table-time{
+			background-color: rgb(250,192,144);
+		}	
+		.product-meiyuanyou>tbody>tr>th{
+			width: 25%;
+			font-weight: 100;
+			border: 1px solid rgb(198, 198, 198);
+			color: #fff;
+			font-size: 16px;
+			text-align: center;
+			background-image: none; 
+			background-color: #115C9D;
+		}
+		.product-meiyuanyou tr:nth-of-type(odd) td:nth-of-type(4){
+			background-color:#93B5A4; 
+		}
+		#left {
+			width: 20%;
+			box-sizing: border-box;
+			float: left;
+			border: 1px solid rgb(198, 198, 198);
+		}
+		
+		#right {
+			position: relative;
+			width: 80%;
+			float: right;
+			box-sizing: border-box;
+			padding-left: 20px;
+		}
+		
+		#left>ul {
+			width: 100%;
+			margin-bottom: 0;
+		}
+		
+		#left>ul>li {
+			width: 100%;
+			font-weight: 300;
+			line-height: 36px;
+			text-align: center;
+			font-weight: bold;
+			border-bottom: 1px solid rgb(198, 198, 198);
+		}
+		#left>ul>li a{
+			display: block;
+			color: #555;
+		}
+		#left>ul>li a:hover{
+			color: rgb(18, 66, 112);
+		}
+		#left>ul>li a.active{
+			background-color: #ddd;
+		}
+		.ul-title {
+			line-height: 36px;
+			text-align: center;
+			font-size: 16px;
+			color: #fff;
+			height: 36px;
+			width: 100%;
+			background: url(../images/titlebg_forextrading.jpg) repeat-x;
+		}
+		
+		.sub_s {
+			position: relative;
+			display: block;
+		}
+		
+		.sub_s>ul>li {
+			/*margin: 0 30px;*/
+			box-sizing: border-box;
+			line-height: 30px;
+			font-size: 13px;
+			text-align: center;
+			color: #0C9842;
+			border-top: 1px solid #d4d4d4;
+		}
+		
+		.sub_s>ul>li>a {
+			color: darkslategrey;
+			font-weight: lighter;
+		}
+		.sub_s>ul>li>a.active{
+			background-color: #ddd;
+		}
+		.one_product{
+			cursor: pointer;
+		}
+		.wishing{
+			height: 40px;
+			line-height: 40px;
+			width: 300px;
+			text-align: center;
+			margin: 20px auto;
+			
+		}
+		.right-header{
+			height: 36px;
+			line-height: 36px;
+			color: #FFFFFF;
+			width: 100%;
+			font-size: 16px;
+			box-sizing: border-box;
+			padding:0 20px;
+			background: url(../images/titlebg_forextrading.jpg) repeat-x;
+		}
+		.box-border{
+			border: 1px solid #d4d4d4;
+			
+		}
+		.box-content{
+			width: 100%;
+			height:auto;
+			background: #fff;
+			margin-bottom: 30px;
+			overflow: hidden;
+			min-height: 300px;
+		}
+		.tong{
+			width: auto;		
+			margin: 20px;
+			padding: 20px;
+			height: auto;
+			background: #F3ECEC;
+		}
+		.why{
+			position: relative;
+			display: inline-block;
+			width: 150px;
+			border-radius: 8px;
+			height: 36px;
+			line-height: 36px;
+			font-size: 16px;
+			color: #FFFFFF;
+			text-align: center;
+			padding-left: 10px;
+			padding-right: 10px;
+			/*margin-top: 30px;*/
+			margin-left: 0px;
+			margin-bottom: 10px;
+			background: url(../images/titlebg_forextrading.jpg) repeat-x;
+			
+		}
+		.register>table{
+			width: 100%;
+		}
+		.tong>ul{
+			margin-left: 20px;
+		}
+		.tong>ul>li{
+			list-style-type: circle;
+			line-height: 25px;
+			
+		}
+		.register>table{
+			width: 70%;
+			
+		}
+		.register>tbody>tr{
+			width: 100%;
+		}
+		.register>table>tbody>tr>td{
+			height: 25px;
+			line-height: 25px;
+			/*width: 33.3%;*/
+			padding: 7px;
+			/*text-align: right;*/
+		}
+		.register>table>tbody>tr>td>input{
+			/*width: 100%;*/
+		}
+
+		.redWord{
+			color: red;
+			padding: 5px;
+		}
+		
+		
+		/*真实开户样式*/
+		.step{
+			margin: 40px auto;
+			width: 420px;
+			height: 36px;
+			line-height: 36px;
+			border-radius: 8px;
+			overflow: hidden;
+			background: #C7BDBD;
+		}
+		.stepOne{
+			color: #000;
+			font-size: 15px;
+			height: 36px;
+			line-height: 36px;
+			text-align: center;
+			width: 50%;
+			float: left;
+		}
+		.stepTwo{
+			color: #000000;
+			font-size: 15px;
+			height: 36px;
+			line-height: 36px;
+			text-align: center;
+			width: 50%;
+			float: right;
+		}
+		.greenColor{
+			background: url(../images/openaccount_mt4_bg.jpg) repeat-x;
+			color: #fff;
+		}
+		.realRegister>tbody>tr>td{
+			padding-top: 15px;
+			padding-bottom: 15px;
+			padding-left: 5px;
+		}
+		.realRegister{
+			font-size: 13px;
+		}
+		.next{
+			margin-top: 20px;
+			width: 200px;
+			height: 40px;
+			line-height: 40px;
+			text-align: center;
+			color: #FFF;
+			background: #9C0808;
+			border-radius: 8px;
+			cursor: pointer;
+		}
+		.realRegister input[type="text"]{
+			width: 210px;
+		}
+		.realRegister input[type="tel"]{
+			width: 210px;
+		}
+		.realRegister input[type="email"]{
+			width: 210px;
+		}
+		.realRegister input[type="number"]{
+			width: 210px;
+		}
+		.greenWord{
+			color: green;			
+		}
+		.tip{
+			padding-left: 10px;
+		}
+		.info{
+			width: 100%;
+		}
+		.info>tbody>tr>td{
+			border: 1px solid burlywood;
+			line-height: 35px;
+			text-align: center;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

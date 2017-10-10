@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field name='keywords'/}" />
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<link href="/static/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+{dede:include filename="head.htm"/}
+<div align="center"><img src="/static/images/about/pz-banner.jpg" alt="" width="950" height="280" /></div>
+<div align="center" class="wrapms">
+  <div class="wrapmsl">{dede:include filename="comm_left.htm"/}</div>
+  <div class="wrapmsr">
+    <div class="rightnav"> <span class="about1" style="float:left">{dede:field name='typename'/}</span>
+      <div style="float:right;padding-right:10px;">您当前位置：{dede:field name='position'/}{dede:field.title/}</div>
+    </div>
+    <div style="height:auto;width:699px;"><br />
+      <h3 class="atitle">{dede:field.title/}</h3>
+      <div class="attr">发布时间：{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}&nbsp;&nbsp;&nbsp;&nbsp;浏览次数： 
+        <script src="/plus/count.php?view=yes&aid=99&mid=1" type='text/javascript' language="javascript"></script></div>
+      <div style="height:auto;width:680px; text-align:left; margin:0 auto;">{dede:field.body/}</div>
+      <br />
+      <div style="clear:both"></div>
+    </div>
+  </div>
+  <div style="clear:both"></div>
+</div>
+{dede:include filename="footer.htm"/} 
+</body>
+</html>

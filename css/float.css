@@ -1,0 +1,98 @@
+﻿.right-float-bar{
+	width:100px;
+	position: fixed;
+	z-index: 3;
+	bottom:10%;
+	right:0px;
+	
+}
+.right-float-bar-item{
+	display:block;
+	width:100%;
+	padding-top:5px;
+	height:70px;
+	background-color:white;
+	position: relative;
+	cursor: pointer;
+	color:white;
+    font-size:12px;
+	z-index:4;
+	border-bottom:1px solid #ddd;
+}
+#qq{
+	color:#c09842;
+	margin:2px 0px;
+}
+#phone{
+	color:#c09842;
+}
+#liuyan{
+	color:#c09842;
+}
+#gongzuo{
+	text-align: center;
+	position: absolute;
+	left:0px;
+	width:100px;
+	height:70px;
+	padding:4px 0 0 0;
+	font-size:10px;
+	background-color:white;
+	top:0px;
+	display:none;
+	
+}
+#neirong{
+	margin:3px auto;
+	color:#c09842;
+	font-weight:300;
+}
+.right-float{
+	text-align:center;
+	padding-top:100px;
+	position:absolute;
+	left:-30px;
+	width:30px;
+	height:420px;
+	line-height:20px;
+	font-size:15px;
+	color:white;
+	top:0px;
+	display:block;
+	background-color:#c09842;
+	-moz-border-radius: 20px 0px 0px 20px;   
+    -webkit-border-radius: 20px 0px 0px 20px;
+    border-radius:20px 0px 0px 20px;
+	
+}
+
+.float-text{
+	padding:30px 3px 3px 3px;
+	color:white;
+	
+}
+#service-phone:hover #goldphone{
+	display:none;
+}
+#service-phone:hover #goldnumber{
+	display:none;
+}
+#service-phone:hover #gongzuo{
+	display:block;
+}
+.right-float img{
+	width:20px;
+	height:20px;
+	margin:0 auto;
+}
+
+#gongzuo:hover{
+	display:block;
+}
+.right-float-bar-item img{
+	width:30px;
+	display: block;
+	margin:0 auto;
+	margin-top:5px;
+	
+}

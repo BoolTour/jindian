@@ -1,0 +1,9 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}陈迪：黄金市场迷雾重重，被美国数据牵引震荡
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>　自进入2016年以来，黄金价格的表现极佳，涨幅一度超过200.00美元/盎司，由1060.00美元/盎司的价位水平上涨至1270.00美元/盎司之上，而这整个上涨的过程仅仅历时约3个月的时间。黄金价格的上涨在一定层面上主要得益于市场和美联储对FOMC整个加息进程预期的退烧以及对全球经济增长和美国内外政治不确定性的担忧。本周非农周，黄金价格走势注定被美国非农数据阴影所笼罩而摇摆不定，去向迷茫。上一个交易日内，美国方面发布了上周首次申领失业救济人数数据，数据虽然攀升至两个月以来的高点，但由于此数据已经连续56周低于30万人劳工市场健康水平线，这也反映了美国的劳动力市场企稳势头仍未改变，所以也在一定程度上对黄金价格进行了打压。黄金价格自2月份以来进入了震荡，于1190.00美元/盎司至1270.00美元/盎司区间内起起伏伏。虽然通过美联储方面反映出来的信息显示美联储将很有可能在6月份的FOMC会议上加息，这也将会导致美元走强而削弱黄金的需求，但在短期内，市场的关注点还将会是美国各经济以及劳动力市场数据的表现，如果一旦美国经济数据显露出任何恶化的态势，想必黄金未来的需求将会大增。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}{/dede:field}

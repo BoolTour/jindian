@@ -1,0 +1,55 @@
+﻿.news-list-box{
+				display: block;
+				overflow: hidden;
+			}
+			.news-list-box .news-item{
+				padding: 15px;
+				display: block;
+				overflow: hidden;
+				border: 1px solid #ddd;
+				margin: 15px;
+			}
+			.news-list-box .news-item:hover{
+				background-color: #FBF5F5;
+			}
+
+			.news-list-box .news-item .news-item-header{
+				padding-bottom: 15px;
+				display: block;
+				overflow: hidden;
+			}
+			.news-list-box .news-item .news-item-header .title{
+				font-size: 14px;
+				font-weight: bolder;
+			}
+			.text-grey{
+				color: #ddd;
+			}
+			.news-list-box .news-item .news-item-body{
+				padding: 15px 0px;
+				display: block;
+				overflow: hidden;
+			}
+
+
+.news-detail-box{
+				display: block;
+				overflow: hidden;
+			}
+
+			.news-detail-box .news-detail-header{
+				padding-bottom: 15px;
+				display: block;
+				overflow: hidden;
+				text-align: center;
+			}
+			.news-detail-box .news-detail-header .title{
+				font-size: 16px;
+				font-weight: bolder;
+				padding: 15px 15px 0px 15px;
+			}
+			.news-detail-box .news-detail-body{
+				padding: 15px;
+				display: block;
+				overflow: hidden;
+			}

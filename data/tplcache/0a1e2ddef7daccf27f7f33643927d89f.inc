@@ -1,0 +1,69 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}油市重磅噩耗！多哈冻产协议流产 油价惨跌6%
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p><strong>FX168讯</strong>&nbsp;尽管此前市场人士对多哈会议达成协议持乐观态度，而稍早流出的冻产协议草案也让人相信与会各方达成协议只是时间问题，但在经过长达7小时的闭门会议之后，OPEC与非OPEC产油国周日意外未能在多哈达成冻产协议，与会官员表示需要&ldquo;更多时间&rdquo;来做出冻产决定；并未参加会谈的伊朗成为成为左右会议结果的关键，一方面，伊朗一再表明自己不会参加冻产协议，且将继续向市场供应原油；另一方面，各国就伊朗是否应参与冻产存在严重分歧。受该消息影响，原油期货周一亚洲盘初暴跌逾6%。</p>
+
+<p><strong>美国原油期货5月合约周一(4月18日)亚市早盘重挫6.7%，至37.68美元/桶。布兰特原油期货6月合约也暴跌6.7%，至40.18美元/桶。</strong></p>
+
+<p><img alt="" src="/uploads/allimg/c170901/150426264015L0-132913.jpg" /></p>
+
+<p>(图片来源：Zerohedge、FX168财经网)</p>
+
+<p>分析人士指出，冻产协议意外&ldquo;流产&rdquo;，这种局面与去年12月份的石油输出国组织(OPEC)会议十分相像，当时会议也是无果而终，随后油价出现暴跌。</p>
+
+<p><strong>彭博援引消息人士的话报道称，多哈会议上，与会产油国就&ldquo;冻产是否应扩展到包括伊朗在内的其他产油国&rdquo;的讨论上进展艰难。</strong></p>
+
+<p><img alt="" src="/uploads/allimg/c170901/15042626404F10-143D9.jpg" style="height:327px; width:448px" /></p>
+
+<p>(图片来源：Business Insider)</p>
+
+<p>而据路透援引消息人士，OPEC与非OPEC石油部长称，需要在年中就产出进行更多探讨工作。产油国各国将在6月就冻产进行更多协商。</p>
+
+<p>产油国未能就冻结产出在1月份接近历史高位的水平可能意味着，周一开盘后油价将再度走软。</p>
+
+<p><strong>花旗集团(Citigroup Inc.)表示，多哈冻产协议无法达成一致，预计将对油价造成&ldquo;严重&rdquo;打击。</strong></p>
+
+<p>卡塔尔能源和工业部长Mohammed bin Saleh Al-Sada在会议向记者表示，参加会议的18个国家相信，&ldquo;原油市场基本面总体而言正在改善。&rdquo;</p>
+
+<p>然而，他避开了有关是否会在OPEC 6月的下次会议前召开特别峰会以及是否伊朗是导致谈判破裂的原因等棘手问题。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/1504262640G260-156104.jpg" style="height:280px; width:387px" /></p>
+
+<p>(图片来源：Business Insider)</p>
+
+<p>目前担任OPEC轮值主席的Al-Sada说道：&ldquo;我们当然尊重他们的立场，我们依然不知道未来会怎样，但这是伊朗的主权决定。&rdquo;</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/1504262640ZJ0-161413.jpg" style="height:288px; width:465px" /></p>
+
+<p>(图片来源：路透)</p>
+
+<p><strong>在此次会议之前，2月份在多哈召开的一次会议曾给原油市场带来惊喜，当时卡塔尔、俄罗斯、沙特和委内瑞拉承诺不会将原油产量增至高于1月份的水平，条件是其他主要产油国也采取这一行动。</strong></p>
+
+<p>上述四国希望限制原油产出能够有助于油价自2014年夏季(当时油价超过100美元/桶)以来的剧烈跌势中反弹。</p>
+
+<p>油价在1月曾短暂跌破30美元/桶，触及12年低点，但近期油价已经攀升至40美元/桶上方，部分归因于市场对多哈会议达成协议持乐观态度。</p>
+
+<p>受协议流产的影响，周日沙特和迪拜股市收盘走低，其中沙特Tadawul股指重挫1.48%。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/150426264115S0-1K350.jpg" style="height:290px; width:536px" /></p>
+
+<p>(图片来源：Zerohedge、FX168财经网)</p>
+
+<p><strong>周日市场上稍早曾流传的一份多哈协议草案显示，产油国周日同意把原油产出冻结在1月份的水平上，冻结将持续到10月1日。</strong></p>
+
+<p>草案显示，产油国10月份将在俄罗斯再次开会，以检视其在寻求&ldquo;原油市场渐进式复苏&rdquo;方面所取得的进展。</p>
+
+<p>伊朗石油部长Bijan Namdar Zanganeh周六表示，伊朗不会将原油产出冻结在1月16日水平。</p>
+
+<p>Zanganeh在接受伊朗国有媒体采访时指出，伊朗冻结原油产出就相当于一种&ldquo;自我制裁&rdquo;。他指出，若伊朗将原油产出冻结在1月16日水平，将不能从制裁解除后中受益，伊朗在任何时候都不会放弃其原油市场份额。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/150426264135950-1QW3.jpg" style="height:299px; width:395px" /></p>
+
+<p>(图片来源：美联社)</p>
+
+<p>沙特阿拉伯在公开场合下对伊朗采取强硬立场。沙特副王储Mohammed bin Salman在接受采访时称，只有当伊朗和其它主要产油国都加入冻产行动，沙特才会冻结产能。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c170901/150426264015L0-132913_lit.jpg{/dede:field}

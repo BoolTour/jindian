@@ -1,0 +1,23 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}关停盈利无望油田 中石油产量或迎17年来首次下降
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p><strong>FX168讯</strong>&nbsp;由于国际油价过去两年的暴跌让一部分油田盈利无望，中国最大石油生产商&mdash;&mdash;中国石油天然气集团(CNPC)已经准备断腕止损。</p>
+
+<p>中国石油总裁汪东进周三(3月23日)表示，随着公司关闭那些按当前油价来看盈利无望的高成本油田，预计石油和天然气产量将出现17年来首降。</p>
+
+<p>此前中石油共公布的2015年度业绩报告显示，受累于油价下滑以及国内成品油和天然气价连续下调，去年公司净利按年大跌67%，这是公司自2000年上市以来最差业绩。</p>
+
+<p>投行杰富瑞(Jefferies Group)驻香港亚洲石油天然气权益业务主管俞磊称，当前油价水平下，中国石油除了放弃这些油田几乎别无选择，中石油计划关闭老旧的高成本油田，是预计产出下滑的直接原因。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/1504262R312R0-D9E.jpg" style="height:305px; width:541px" /></p>
+
+<p>(中石油产量虽油价下跌而萎缩 来源：FX168财经网)</p>
+
+<p>中石油称，预计今年产出将下降2.7%至14.5亿桶油当量，原油产出下滑幅度盖过了天然气产出的增长。中国石油是按市值计仅次于埃克森美孚的全球最大石油企业。</p>
+
+<p>中石油的产出计划可能有助于进一步减轻全球石油供应过剩，并推动油价脱离今年稍早触及的12年低位。国际能源署(IEA)本月称，随着非石油输出国组织(OPEC)产油国的供应状况与OPEC国家供给中断缓解了全球过剩的供应，最糟糕的阶段可能已经过去。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c170901/1504262R312R0-D9E_lit.jpg{/dede:field}

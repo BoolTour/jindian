@@ -1,0 +1,25 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}澳元亚盘跌至2个半月低点 RBA降息仍显遥远
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p><strong>FX168讯</strong>&nbsp;周四（5月19日）亚太时段，澳元/美元跌至2个半月低点0.7209，虽然喜忧参半的就业数据不太可能成为澳洲联储（RBA）立即降息的基础，但却引发了些许投机性抛售。</p>
+
+<p>日内澳元兑美元自盘初的0.7240附近跌至3月初以来低点0.7209，目前位于0.7215附近。若汇价有效跌破0.7209，则目标看至0.7063回撤位。</p>
+
+<p>日内最新公布的数据显示，澳洲4月经季节调整就业人口增加1.08万人，略低于预估的1.25万人，失业率保持在逾2年最低水平。</p>
+
+<p>加拿大皇家银行（RBC）Capital Markets资深分析师Su-Lin Ong表示，&ldquo;澳洲最近公布的主要经济数据并不差，但细项则有点疲软，与劳动市场温和情况相符。&rdquo;</p>
+
+<p>Ong表示，&ldquo;这明显与澳洲联储的宽松倾向一致，6月份料将降息25个基点至纪录低位1.5%。</p>
+
+<p>日内纽元兑美元亦整理跌势，目前位于0.6740附近，隔夜受到美联储纪要影响而下跌1%。</p>
+
+<p>纽元/美元接下来支撑位于0.6700，该水位为汇价自1月至5月走势的50%回撤位。</p>
+
+<p>澳新银行（ANZ）调查显示，新西兰就业广告较上年同期增加4.6%，表明劳动市场强劲，该调查亦为纽元带来少许支撑。</p>
+
+<p>北京时间11:35，澳元/美元报0.7215/19，纽元/美元报0.6737/40。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}{/dede:field}

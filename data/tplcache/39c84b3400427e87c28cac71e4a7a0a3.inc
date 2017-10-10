@@ -1,0 +1,25 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}IF1606砸盘内情：大单套保或遭遇流动性缺失
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}新浪财经{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>5月31日，A股沉寂多日后再度上攻，单日上涨达2%，而多个品种期指也同样迎来攻势。</p>
+
+<p>　　而在10点42分左右，期指盘中突然暴跌，主力合约IF1606一度跌至2732.4点，触及跌停，随后快速补涨，截至截稿前IF1606涨幅达2.67%。</p>
+
+<p>　　21世纪经济报道记者采访多位期指人士了解到，IF1606单日的砸盘，与投机盘有关的概率较小，而之所以出现快速下跌，原因可能来自于大单套保遭遇了期指市场的流动性缺失有关。</p>
+
+<p>　　&ldquo;你这一下子下的手数太大了，套保是不限制手数的，但投机是限仓的，所以投机盘对期指的影响并不大了。&rdquo;一家央企系期货公司资深分析师表示，&ldquo;投机盘一般做多，而套保才做空，单一时点上套保的量太大了，但是没有足够的多单接，所以就会出现砸盘。&rdquo;</p>
+
+<p>　　而据一位期指交易人士介绍，套保盘基本都以做空为主。</p>
+
+<p>&ldquo;基本上<a href="http://weibo.com/cffexfabu?zw=finance" target="_blank">中金所</a>批了套保都是做空为主的。&rdquo;上述期指交易人士称&ldquo;各个价格仓的多单太少，也有可能是空头的程序出错，或者按错，比如&lsquo;150&rsquo;按成了&lsquo;1500&rsquo;。&rdquo;</p>
+
+<p>　　在多位资深期指人士看来，乌龙指或短时间内的套保空单可能是诱因，但IF1606出现&ldquo;砸盘&rdquo;的根本原因，仍然是期指市场的流动性缺失所致。</p>
+
+<p>　　&ldquo;根本原因还是限仓导致的流动性缺失，这让部分时点的多空力量失衡了。&rdquo;前述期指分析师坦言，&ldquo;为什么没有流动性，还是因为去年股灾之后对期指上的限仓令导致的，是制度问题酝酿了这次&lsquo;异常交易&rsquo;。&rdquo;</p>
+
+<p>　　2015年9月初，中金所决定，自9月7日起，<a href="http://finance.sina.com.cn/realstock/company/sz399300/nc.shtml" target="_blank">沪深300</a>(3150.340,&nbsp;83.63,&nbsp;2.73%)、上证50、中证500股指期货客户在单个产品、单日开仓交易量超过10手的构成&ldquo;日内开仓交易量较大&rdquo;的异常交易行为；日内开仓交易量是指客户单日在单个产品所有合约上的买开仓数量与卖开仓数量之和，但套期保值交易的开仓数量不受此限，而自此之后股指期货市场的成交量快速下滑。</p>{/dede:field}
+{dede:field name='pubdate'}1464671301{/dede:field}
+{dede:field name='litpic'}{/dede:field}

@@ -1,0 +1,2 @@
+INSERT INTO `dede_addon18` VALUES('2','9','','','116.225.73.206','Beauty Planet面膜王子','010-88888888','tian@abc.com','广州嘉禾');
+INSERT INTO `dede_addon18` VALUES('27','9','','','114.95.154.206','Beauty Planet面膜王子','010-88888888','abc@11.com','广州嘉禾');

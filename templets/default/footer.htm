@@ -1,0 +1,295 @@
+
+<div class="footer_box">
+    <div class="container">
+        <div class="bottom-tip">
+            <p style="font-size:18px;font-weight:bold;color:#FF5559;text-align:center;">免责声明</p>
+            <p style="text-align: left;">
+                金殿环球金融投资集团是金殿环球交易平台运营维护方，仅对外提供官方信息发布和平台技术支持服务。在此郑重提醒：客户须妥善保管交易账户和密码，切勿交付他人管理或交易；客户应知悉任何机构或个人针对交易的任何获利保证或不发生亏损的承诺均为虚假承诺；金殿环球不对外提供代客操盘，客户应自行作出具体交易决定，并对其交易行为负责。如因以上行为引起的责任和经济损失，与交易平台无关。
+
+
+            </p>
+           
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="links tab">
+            <ul class="tab-hd fn-clear">
+                <li id="first" class="first current" onclick="tabtab(0)">合作银行</li>
+                <li id="second" class="first" onclick="tabtab(1)">友情链接</li>
+            </ul>
+            <div id="link1">
+                <ul class="tab-con fn-clear">
+                    <li>
+                        <a href="http://www.icbc.com.cn/icbc/" target="_blank">
+                            <img src="/picture/gongshang.png" alt="中国工商银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.abchina.com/cn/" target="_blank">
+                            <img src="/picture/nongye.png" alt="中国农业银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.cebbank.com/Site/ceb/cn" target="_blank">
+                            <img src="/picture/guangda.png" alt="中国光大银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.hxb.com.cn/home/cn/" target="_blank">
+                            <img src="/picture/huaxia.png" alt="华夏银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://bank.ecitic.com/" target="_blank">
+                            <img src="/picture/zhongxin.png" alt="中信银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.boc.cn/" target="_blank">
+                            <img src="/picture/zhongguobank.png" alt="中国银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.bankcomm.com/BankCommSite/default.shtml" target="_blank">
+                            <img src="/picture/jiaotong.png" alt="交通银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.spdb.com.cn/" target="_blank">
+                            <img src="/picture/pufa.png" alt="浦发银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.cmbc.com.cn/" target="_blank">
+                            <img src="/picture/minsheng.jpg" alt="民生银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.cmbchina.com/" target="_blank">
+                            <img src="/picture/zhaoshang.png" alt="招商银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.cib.com.cn/cn/index.html" target="_blank">
+                            <img src="/picture/xingye.png" alt="兴业银行">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.ccb.com/cn/home/indexv3.html" target="_blank">
+                            <img src="/picture/jianshe.png" alt="中国建设银行">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div id="link2" style="display: none;float:left;width:100%">
+                <a href="http://www.hkex.com.hk/" title="香港交易所" target="_blank">
+                    <img src="/picture/link1.png">
+                </a>
+                  
+                <a href="http://www.cmegroup.com/" title="纽约商品交易所" target="_blank">
+                    <img src="/picture/link2.png">
+                </a>
+                  
+                <a href="http://www.lme.com/" title="伦敦金属交易所" target="_blank">
+                    <img src="/picture/link3.png">
+                </a>
+                  
+                <a href="http://www.sgx.com/" title="新加坡交易所" target="_blank">
+                    <img src="/picture/link4.png">
+                </a>
+                  
+                <a href="http://www.eurexchange.com/" title="欧洲期货交易所" target="_blank">
+                    <img src="/picture/link5.png">
+                </a>
+            </div>
+        </div>
+    </div>
+</div> 
+	</div>	
+
+
+<div style="position: relative; width: 100%; margin-top: 20px; text-align: center;">
+    <img src="/picture/cnnic.png">    <img src="/picture/hy_124x47.png">    <img src="/picture/cnnic6.gif">
+</div>
+<script type="text/javascript"
+		src="/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript"
+		src="/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/liuyan.js" /></script>
+	<script type="text/javascript" src="/js/style.js"></script>
+	<script type="text/javascript" src="/js/head.js"></script>
+	<script type="text/javascript">
+		$(document)
+				.ready(
+						function() {
+							if (navigator.userAgent.indexOf("MSIE 8") > -1
+									|| navigator.userAgent.indexOf("MSIE 7") > -1
+									|| navigator.userAgent.indexOf("MSIE 6") > -1
+									|| navigator.userAgent.indexOf("MSIE 5") > -1) {
+								alert("您的浏览器版本过低，为不影响用户体验，请及时更新浏览器至最新版本！");
+							}
+							//获取指数
+							var hkStockUrl = "http://apis.baidu.com/apistore/stockservice/hkstock";
+							var usStockUrl = "http://apis.baidu.com/apistore/stockservice/usastock";
+							var stockUrl = "http://apis.baidu.com/apistore/stockservice/stock";
+							getStock(hkStockUrl + "?stockid=HSI&list=1",
+									$(".hsi-text"));//恒生指数
+							function getStock(url, selector) {
+								$
+										.ajax({
+											type : "GET",
+											url : url,
+											dataType : "json",
+											beforeSend : function(
+													XMLHttpRequest) {
+												XMLHttpRequest
+														.setRequestHeader(
+																"apikey",
+																"2b1223f177dc242380e551273289db19");
+											},
+											success : function(data) {
+												if (parseFloat(data.retData.stockinfo[0].growth) > 0) {
+													selector.prev().addClass(
+															"redMe")
+															.removeClass(
+																	"green");
+													selector
+															.addClass("text-orangered");
+												} else {
+													selector.prev().addClass(
+															"green")
+															.removeClass(
+																	"redMe");
+													selector
+															.addClass("text-green");
+												}
+
+												selector
+														.html(data.retData.stockinfo[0].currentPrice
+																+ "  "
+																+ data.retData.stockinfo[0].growth);
+												//debugger;
+												//上证指数
+												var shanghaiJson = data.retData.market.shanghai;
+												if (parseFloat(shanghaiJson.rate) > 0) {
+													$(".shanghai-text").prev()
+															.addClass("redMe")
+															.removeClass(
+																	"green");
+													$(".shanghai-text")
+															.addClass(
+																	"text-orangered");
+												} else {
+													$(".shanghai-text").prev()
+															.addClass("green")
+															.removeClass(
+																	"redMe");
+													$(".shanghai-text")
+															.addClass(
+																	"text-green");
+												}
+												$(".shanghai-text")
+														.html(
+																shanghaiJson.curdot
+																		+ "  "
+																		+ shanghaiJson.rate);
+
+												//深证成指
+												var shenzhenJson = data.retData.market.shenzhen;
+												if (parseFloat(shenzhenJson.rate) > 0) {
+													$(".shenzhen-text").prev()
+															.addClass("redMe")
+															.removeClass(
+																	"green");
+													$(".shenzhen-text")
+															.addClass(
+																	"text-orangered");
+												} else {
+													$(".shenzhen-text").prev()
+															.addClass("green")
+															.removeClass(
+																	"redMe");
+													$(".shenzhen-text")
+															.addClass(
+																	"text-green");
+												}
+												$(".shenzhen-text")
+														.html(
+																shenzhenJson.curdot
+																		+ "  "
+																		+ shenzhenJson.rate);
+
+												//纳斯达克
+												var ixicJson = data.retData.market.IXIC;
+												if (parseFloat(ixicJson.growth) > 0) {
+													$(".ixic-text").prev()
+															.addClass("redMe")
+															.removeClass(
+																	"green");
+													$(".ixic-text").addClass(
+															"text-orangered");
+												} else {
+													$(".ixic-text").prev()
+															.addClass("green")
+															.removeClass(
+																	"redMe");
+													$(".ixic-text").addClass(
+															"text-green");
+												}
+												$(".ixic-text")
+														.html(
+																ixicJson.curdot
+																		+ "  "
+																		+ ixicJson.growth);
+
+											},
+											error : function(data) {
+												//debugger;
+											}
+										});
+							}
+						});
+	
+	$(window).load(function(){
+		var $showBigImg = $("#showBigImg"),
+	        $bigImg = $("#bigImg"),
+	        $imgMask = $("#imgMask"),
+	        $bigImgWrap = $("#bigImgWrap"),
+	        $win = $(window),
+	        winW = $win.width(),
+	        winH = $win.height(),
+	        $scaleBtn = $("#scaleBtn");
+	    $("#licenceContainer").delegate("img","click",function(e){
+		    var src = e.target.src;
+		    if($imgMask.width() == 0){
+		        $imgMask.css({width:winW,height:winH});
+		    }
+		    $bigImg.attr("src",src);
+		    $showBigImg.css("display","block");
+	    });
+	    $showBigImg.delegate("#imgMask","click",function(){
+		    $showBigImg.css("display","none");
+		    $bigImg.width(winW*0.4);
+		    $bigImg.height(winH*0.95);
+	    });
+	    $scaleBtn.delegate("span","click",function(e){
+		    var scale = $(this).attr("data-scale"),
+		        imgW = $bigImg.width(),
+		        imgH = $bigImg.height(),
+		    	speedW = winW*0.4*0.2,
+		    	speedH = winH*0.95*0.2;
+		    if(scale == "zoom-in"){
+		    	$bigImg.animate({width:imgW+speedW,height:imgH+speedH});
+		    }
+		    if(scale == "zoom-out"){
+		    	if(imgW  <=  winW * 0.4){
+		    		return;
+		    	}
+		    	$bigImg.animate({width:imgW-speedW,height:imgH-speedH});
+		    }
+	    });
+
+	});
+	</script><script type="text/javascript" src="/js/90f0154ac7ef4fa598be8ad07cc913e2.js" charset="utf-8"></script>
+
+

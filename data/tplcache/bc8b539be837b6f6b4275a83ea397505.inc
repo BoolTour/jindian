@@ -1,0 +1,27 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}欧洲期交所3月交易量创1年新高 股指品种热度猛增
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p><strong>FX168讯</strong>&nbsp;欧洲期货交易所集团(Eurex Group)日前发布2016年3月交易量月报，内容显示当月交易量较2月略有回升，但并未突破年初以来较为平稳的交易规模区间。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/1504262XD4950-10S36.jpg" style="height:252px; width:617px" /></p>
+
+<p>2月份，欧洲期交所的交易量表现不佳，日均交易量(ADV)为980万手，相比1月份下滑了3.9%。不过欧洲期交所在声明中称，3月期货日均交易量回升至1050万手，创下2016年新高，比2月的98万手劲增7.1%。</p>
+
+<p>数据相比2015年3月也大增9.4%，当月的日均交易量为960万手。</p>
+
+<p><strong>股票指数期货交易量表现优异</strong></p>
+
+<p>欧洲期货交易所股票指数衍生品的主要部分(包括股指期权和个股期货)交易量在3月升至相对健康的9250万手，数据相比2月份的8070万手猛增了14.6%，3月交易量为1年来最高。此外，相比2015年3月，成交量同样大幅跳升了16.9%，去年3月交易量为7910万手。</p>
+
+<p><strong>利率衍生品领域持续提升</strong></p>
+
+<p>欧洲期货交易所利率衍生品交易量也有稳定表现，尤其是相比2月的情况。2016年3月，该集团相关品种交易量为5390万手，2月为4250万手，数量提升了26.8%，数字相比2015年3月的5110万手增加了5.5%。</p>
+
+<p>根据美国期货业协会(Futures Industry Association, FIA)发布的交易所交易量调查报告，在全球78个衍生品工具交易所当中，欧洲期货交易所2015年全年的交易量高居第三位。</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/1504262XGPZ-11S35.jpg" /></p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c170901/1504262XD4950-10S36_lit.jpg{/dede:field}

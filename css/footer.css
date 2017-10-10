@@ -1,0 +1,177 @@
+﻿
+/*footer*/
+a:hover{
+	text-decoration: none;
+}
+p {
+   /* margin: 0;*/
+}
+.foot{
+	margin-bottom: 0 !important;
+}
+
+dt, dd{
+	line-height: 20px;
+}
+.curr dd{
+	font-size: 14px;
+	padding-top: 10px;
+}
+.footer_box {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+/*footer*/
+
+.bottom {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: url(../images/line_03.gif)0 37px repeat-x;
+}
+
+.bottom .links {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.bottom .links .tab-hd {
+	height: 36px;
+	line-height: 36px;
+}
+
+.bottom .links .tab-hd li {
+	float: left;
+	padding: 0 10px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.bottom .links .tab-hd li.first {
+	/*padding-right: 64px;
+	background: url(../images/link_ico.gif) 72px 10px no-repeat;*/
+}
+
+.bottom .links .tab-hd li.current {
+	font-weight: bold;
+	color: #fc7c01;
+	border-bottom: 2px solid #fc7c01;
+}
+
+.bottom .links .tab-con {
+	position: relative;
+	padding: 20px 0;
+	width: 100%;
+}
+
+.bottom .links .tab-con li {
+	float: left;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-left: 21px;
+	width: 140px;
+	height: 32px;
+	border: 1px solid #ccc;
+}
+
+.bottom .links .tab-con li img {
+	width: 140px;
+	height: 32px;
+}
+
+.footer {
+	position: relative;
+	width: 100%;
+	background-color: #fe7503;
+	margin-top: 20px;
+}
+
+.footer .foot {
+	position: relative;
+	width: 1000px;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+	color: #fff;
+	overflow: hidden;
+}
+
+.footer .foot .copyright {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.footer .foot .copyright a {
+	color: #fff;
+}
+
+.footer .foot .links {
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: right;
+}
+
+.footer .foot .links a {
+	color: #fff;
+	margin: 0 10px;
+}
+
+
+.footer{
+  height: 60px;
+  background-color: #fff;
+  text-align: center;
+}
+.footer li{
+  display: inline-block;
+}
+.footer img{
+  display: inline-block;
+  padding:10px;
+}
+
+
+/*index bottom start*/
+.foot {
+    background: #555555;
+    margin-top: 20px;
+}
+.box {
+    width: 1000px;
+    margin: 0 auto;
+}
+.foot .f-1 {
+    padding: 20px 0 10px;
+}
+.foot .f-1 .sub1 {
+    float: left;
+    width: 337px;
+}
+.foot .f-1 dt {
+    padding: 3px 0;
+}
+.foot .f-1 dt a {
+    color: #CCC;
+    font-size: 16px;
+    font-weight: bold;
+}
+.foot .f-1 .sub2 {
+    float: left;
+    width: 190px;
+}
+.foot .f-1 .sub3 {
+    float: left;
+    color: #FFF;
+    padding-top: 3px;
+  /*add for phone number, should align-left*/
+  padding-left: 65px;
+}
+.foot .f-1 .sub4 {
+    float: right;
+    width: 240px;
+}

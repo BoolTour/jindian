@@ -1,0 +1,55 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}金融市场今年又要出大事？这一国家恐闹脱欧
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}fx168财经网{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>首先是&ldquo;希腊脱欧&rdquo;(Grexit)恐慌，随后是&ldquo;英国脱欧&rdquo;(Brexit)冲击波，眼下投资者已经开始为&ldquo;法国脱欧&rdquo;(Frexit)做准备。最近数日法国离开欧元区的风险已经提升，此前法国总统候选人、极右翼政党&ldquo;国民阵线&rdquo;领导人玛丽娜&middot;勒庞(Marine Le Pen)周日以一番移民和全球化相关的强硬演讲开展竞选。</p>
+
+<p>随着保守党候选人菲永(Fran?ois Fillon)遭遇丑闻的困扰，勒庞眼下被视为总统宝座有力的竞争者。</p>
+
+<p>City Index市场分析师Fiona Cincotta说道：&ldquo;自从将自己推在前面并表达了法国退欧的意愿，法国总统候选人勒庞已经制造了影响力。&rdquo;</p>
+
+<p>Cincotta补充道：&ldquo;当前的看法就是，勒庞赢得首轮投票是非常有可能的，但政治分析师相信，赢得第二轮投票对于她而言将是巨大挑战。&rdquo;</p>
+
+<p><img alt="" src="/uploads/allimg/c170901/150426215b250-63396.jpg" /></p>
+
+<p>(图片来源：路透、FX168财经网)</p>
+
+<p>在法国选举体系中，一名候选人需要在首轮投票中赢得多数票，以确保赢得总统大选；2017年法国大选的首轮选举定在4月23日。</p>
+
+<p>根据海外知名财经媒体MarketWatch，勒庞在针对首轮投票的民调中领先，但距离赢得多数票仍有差距。这也意味着，她将在5月7日举行的决选投票中与对手&ldquo;决一死战&rdquo;。</p>
+
+<p>尽管勒庞预计将在首轮投票中胜出，但外界依然预期，中立派人士将在第二轮投票中投向其竞争对手，可能是前经济部长、中左翼候选人Emmanuel Macron。</p>
+
+<p>根据最近的民调，Macron可能在第二轮投票中以65%对35%的宣誓优势战胜勒庞。</p>
+
+<p>Cincotta说道：&ldquo;但这听上去非常熟悉，可以轻易地与特朗普胜选、甚至英国脱欧进行类比，这也就是为何市场开始转向避险，并同时抛售欧元。&rdquo;</p>
+
+<p>她补充道，假如勒庞的支持率看似愈发提升，这些交易将随着大选日的临近而放大。</p>
+
+<p>欧元/美元周二下滑至一周低点，日内下挫大约0.7%，至1.0673。</p>
+
+<p>此外，10年期法国国债收益率相对于德国同期债券收益率的息差已经扩大，表明交易员对于法国经济前景愈发感到担忧。</p>
+
+<p>根据英国卫报，法国兴业银行全球外汇策略主管Kit Juckes说道：&ldquo;我们预计，未来三个月之内(法国总统大选竞选期)欧元/美元将触及年内低点，达到接近平价的水平。&rdquo;</p>
+
+<p>他指出，假如勒庞没有赢得选举，随着估值和资金流动因素占据主导，预计欧元会在今年下半年强劲反弹。</p>
+
+<p>随着英国意外脱欧、特朗普爆冷赢得美国总统大选，眼下反体制(anti-establishment)情绪席卷欧洲和美国，而勒庞无疑令这种情绪愈发高涨。</p>
+
+<p>勒庞周日发表了慷慨激扬的演讲，她承诺&ldquo;将让法国重获自由&rdquo;，这似乎也与特朗普竞选轨迹形成呼应。</p>
+
+<p>勒庞在周末的竞选演讲中重申了&ldquo;国民阵线&rdquo;有关推动法国退出欧盟、北大西洋公约组织(NATO)、并恢复法郎作为该国官方货币的承诺。</p>
+
+<p>她同时也承诺，将就法国的欧盟成员国地位举行公投，她呼应法国&ldquo;抛弃&rdquo;欧元并大幅削减移民。</p>
+
+<p>MarketWatch报道称，前总理菲永面临其妻子&ldquo;吃空饷&rdquo;的丑闻，勒庞预计将充分利用这一点做文章。</p>
+
+<p>尽管面临丑闻，但菲永周一表示，他不会退出法国总统竞选。</p>
+
+<p>Berenberg首席经济学家Holger Schmieding在一份报告中写道：&ldquo;法国总统竞选已经出现许多意外。因此我们需要密切关注这一尾部风险，即极右翼领导人勒庞可能在近赢得总统大选。&rdquo;</p>
+
+<p>但Schmieding补充道，总的来说，深陷丑闻困扰的菲永已经提升了中左翼改革派Macron战胜勒庞胜选的可能性。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c170901/150426215b250-63396_lit.jpg{/dede:field}

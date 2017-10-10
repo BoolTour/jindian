@@ -1,0 +1,52 @@
+{dede:field name='keywords'}金殿环球,香港金殿环球{/dede:field}
+{dede:field name='description'}金殿环球金融投资集团(简称:金殿环球)，专注为投资者提供优良的指数、期油、期货、外汇及贵金属投资买卖服务。咨询电话：0064-92815382{/dede:field}
+{dede:field name='title'}沙特拼尽全力却难挽油价颓势 两位央妈接连放“鹰”重挫金银
+									<a href="javascript:window.history.back()" class="btn btn-primary pull-right" style="color:#fff;">返回</a>{/dede:field}
+{dede:field name='writer'}金殿环球{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p>&nbsp; &nbsp; &nbsp; &nbsp; 周四（5月15日），美元走高令原油金银承压。尽管沙特原油出口料将下降，但因油市供应过剩的担忧仍然挥之不去，油价再创七个月新低；天然气则因库存增幅不及预期大涨逾4%。贵金属方面，两大央行接连放&ldquo;鹰&rdquo;重挫金银。</p>
+
+<p><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &middot; 原油期货价格延续前一日跌势，再创七个月新低</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &middot; 消息人士称沙特夏季原油出口将降至700万桶/日以下</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &middot; 伊拉克已有能力将产量增至500万桶/日的纪录水平</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &middot; 英国央行意外放&ldquo;鹰&rdquo;令金银承压</p>
+
+<p>&nbsp;</p>
+
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp;油价再创七个月新低 天然气大涨逾4%</strong></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 周四（6月15日），因全球油市供应过剩的担忧仍然挥之不去，加上美元升至逾两周高点，原油期货价格延续前一交易日的跌势，收盘微幅下跌。NYMEX 7月份交割的WTI原油期货价格下跌27美分或0.6%，报收于44.46美元/桶，连续第二个交易日处于11月14日以来最低收盘水平。ICE 8月份交割的布伦特原油期货价格下跌8美元或0.2%，报收于46.92美元/桶。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 昨日，据路透援引消息人士称，今年夏季沙特的原油出口料将下滑至700万桶/日的水平以下，低于去年5至8月的740万桶/日。迄今的数据也支撑了这一说法，沙特5月原油平均出口规模已跌破700万桶/日，而路透数据显示6月前两个星期沙特原油出口平均只有698万桶/日。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 但是，汤森路透Eikon的船舶追踪及港口数据显示，2017年1至5月OPEC共计出口原油2560万桶/日，略高于2016年同期的2540万桶/日。英国咨询机构Oil Movements也指，截至7月1日OPEC原油出口四周均值将较截至6月3日的四周平均水平高出27万桶/日。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 另据能源咨询机构伍德麦肯兹，伊拉克已有能力将原油产量增至500万桶/日的纪录水平，预计该国将在明年第一季度OPEC减产协议结束之后便将产能最大化，又或在OPEC选择继续延长协议时将其作为筹码。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 除了来自OPEC国家方面的担忧，美国页岩油仍是原油多头的心头大患。在周三的交易中，由于EIA原油库存降幅意外不及预期，加上IEA对今年油市平衡前景发出悲观预测，美油布油双双跌近4%。纽约咨询公司Tyche Capital Advisors原油交易员Tariq Zahir称：</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &ldquo;我认为现在油价已经进入新的交投区间。除非基本面传出供应中断的消息，否则油价还将继续维持低位。&rdquo;</p>
+
+<p><br />
+&nbsp; &nbsp; &nbsp; &nbsp; 此外，周四晚间公布的美国至6月9日当周EIA天然气库存录得增加780亿立方英尺，小于预期的增加860亿立方英尺，令天然气价格短线上扬。NYMEX 7月天然气期货价格上涨12.3美分或4.2%，报收于3.056美元/百万英热单位，为5月31日以来的最高收盘价。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; 连续两大央行放&ldquo;鹰&rdquo; 金银承压下行</strong></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 贵金属方面，由于美联储会议的&ldquo;余震&rdquo;尚存，令美元受到支撑，加上英国央行也意外放&ldquo;鹰&rdquo;，黄金期货价格周四收盘下跌。NYMEX 8月份交割的黄金期货价格下跌21.30美元或1.7%，报收于1254.60美元/盎司，创下了自5月24日以来的最低收盘价。7月份交割的期银价格也下跌42美分或2.5%，报收于16.716美元/盎司，同样创下了约一个月以来的最低收盘价。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 美联储昨日在政策声明重申今年料将再加息一次，强硬立场令市场大感意外。而晚间公布的美国经济数据也支撑了这一决定。数据显示美国至6月10日当周初请失业金人数录得23.7万人，少于预期的24.2万人。凯投宏观在报告中称：</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &ldquo;我们仍然认为美联储的紧缩进程对今年的金价而言是一个重大逆风因素。预计年底金价将跌至1100美元/盎司，低于现在的1255美元/盎司。&rdquo;</p>
+
+<p><br />
+&nbsp; &nbsp; &nbsp; &nbsp; 另外英国央行周四晚间公布利率决议，决定维持关键利率水平不变，符合市场预期，然而支持加息的委员较上月增加了两人至三人。英国外汇公司CMC集团首席集团分析师泽斯基（Colin Cieszynski）称，英国央行会议无疑对黄金产生了影响，金价在鹰派决议公布后从1260美元跌至1252美元。</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 不过，仍有分析师看好黄金长期前景。经纪公司Altavest管理合伙人安布里斯特（Michael Armbruster）指出，美国乃至全球的真实利率仍然处于负值区间，因此尽管各大央行开始收紧货币政策，但大环境仍然利于黄金。</p>{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}{/dede:field}
